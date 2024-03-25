@@ -11,4 +11,4 @@ day 3 - Comecei a aprender operações aritméticas, tipos da variável número 
 day 4 - Aprendi, através da plataform [Exercism](https://exercism.org) operações lógicas utilizando AND, NOT, OR (&&, !, ||) respectivamente, e como trabalhar com variáveis do tipo booleano (bool), bem como funções que recebem como parâmetros e retornam
 este tipo de dado. Aprendi também a comentar meu código GO utilizando as regrás da linguagem.
 
-day 5 - Continuando meu aprendizado no [Exercism](https://exercism.org) agora sobre Strings, pacote strings (); Concatenação e tratamento utilizando algumas funções como .ReplaceAll, .TrimSpace, ToUpper, pra fazer precisei utilizar a documentação. 
+day 5 - Continuando meu aprendizado no [Exercism](https://exercism.org) agora sobre Strings, [pacote strings](https://pkg.go.dev/strings#pkg-functions) ; Concatenação e tratamento utilizando algumas funções como .ReplaceAll, .TrimSpace, ToUpper, pra fazer precisei utilizar a documentação. 
