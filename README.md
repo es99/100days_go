@@ -12,3 +12,5 @@ day 4 - Aprendi, através da plataform [Exercism](https://exercism.org) operaç�
 este tipo de dado. Aprendi também a comentar meu código GO utilizando as regrás da linguagem.
 
 day 5 - Continuando meu aprendizado no [Exercism](https://exercism.org) agora sobre Strings, [pacote strings](https://pkg.go.dev/strings#pkg-functions) ; Concatenação e tratamento utilizando algumas funções como .ReplaceAll, .TrimSpace, ToUpper, pra fazer precisei utilizar a documentação. 
+
+day 6 - Comecei o assunto sobre "conditionais If", que envolve if, else, if else. Li a teoria e fiz exercicios.
