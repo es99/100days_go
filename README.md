@@ -26,3 +26,5 @@ fmt.Sprintf("03%d",7)
 ```
 O código acima informa que iremos formatar um decimal __%d__ adicionando _zeros_ a esquerda e que o número terá no mínimo 3 dígitos.
 __obs__: A função _Sprintf()_ não escreve nada na tela, ela apenas gera um retorno.
+
+day 8 - Comecei a aprender e avancei muito bem acerca do conhecimento de _slices_ e _variadic functions_, espero que no day 9 eu possa concluir este assunto.
