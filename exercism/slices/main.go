@@ -1,26 +1,15 @@
 package main
 
-import "fmt"
-
-func find(num int, nums ...int) {
-	fmt.Printf("type of nums is %T\n", nums)
-
-	for i, v := range nums {
-		if v == num {
-			fmt.Println(num, "found at index", i, "in", nums)
-			return
-		}
-	}
-
-	fmt.Println(num, "not found in", nums)
-}
+import (
+	"fmt"
+	"meuprojeto/cards"
+)
 
 func main() {
-
-	lista := []int{90, 91, 95}
-
-	find(89, lista...)
-	find(45, 56, 67, 45, 90, 109)
-	find(87)
-
+	lista := []int{2, 15, 20, 30, 14}
+	fmt.Println("cartas favoritas:", cards.FavoriteCards())
+	fmt.Println(cards.GetItem(lista, 3))
+	fmt.Println(cards.SetItem(lista, 0, 100))
+	fmt.Println(cards.PrependItems(lista))
+	fmt.Println(cards.RemoveItem(lista, 3))
 }

@@ -28,3 +28,5 @@ O código acima informa que iremos formatar um decimal __%d__ adicionando _zeros
 __obs__: A função _Sprintf()_ não escreve nada na tela, ela apenas gera um retorno.
 
 day 8 - Comecei a aprender e avancei muito bem acerca do conhecimento de _slices_ e _variadic functions_, espero que no day 9 eu possa concluir este assunto.
+
+day 9 - Concluído o assunto de _slices_ e _variadic functions_
