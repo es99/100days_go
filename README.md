@@ -30,3 +30,5 @@ __obs__: A função _Sprintf()_ não escreve nada na tela, ela apenas gera um re
 day 8 - Comecei a aprender e avancei muito bem acerca do conhecimento de _slices_ e _variadic functions_, espero que no day 9 eu possa concluir este assunto.
 
 day 9 - Concluído o assunto de _slices_ e _variadic functions_
+
+day 10 - Aprendido e praticado _for loops_ (um assunto que precisa ser mais praticado), resolvi refatorar meu exercício que está no diretório _/exercism/for_loos_ mas deixei meu código antigo comentado para que, em consultas futuras eu possa comparar a evolução.
