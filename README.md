@@ -36,3 +36,6 @@ day 9 - Concluído o assunto de _slices_ e _variadic functions_
 day 10 - Aprendido e praticado _for loops_ (um assunto que precisa ser mais praticado), resolvi refatorar meu exercício que está no diretório _/exercism/for_loos_ mas deixei meu código antigo comentado para que, em consultas futuras eu possa comparar a evolução.
 
 day 11 - Revisão sobre _for loops_ e _slices_ e visto alguma coisa sobre _arrays_. Concluído assunto sobre _Randomness_ e _Conditionals Switch_
+
+day 12 - Revisão sobre _for loops_ é um pouco dificil adaptar-se a um linguagem que o único laço de repetição é o _for_. Neste sentido, revisei mais um pouco, e li algumas coisas a respeito da linguagem GO, como nasceu, de quais linguagens herdou, qual o propósito, etc.
+Implantei o algoritmo de árvore binária em _./algoritmos/arvore_binaria/main.go_
