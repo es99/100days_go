@@ -41,3 +41,5 @@ __day 12__ - Revisão sobre _for loops_ é um pouco dificil adaptar-se a um ling
 Implantei o algoritmo de árvore binária em _./algoritmos/arvore_binaria/main.go_
 
 __day 13__ - Revisto conceitos de __array__, __slices__, __loops__. Aprendendo um novo conceito __map__. Fiz alguns exercícios básicos para treinar o conceito de __map__. Falta refatorar e organizar o código em _/praticas/maps_
+
+__day 14__ - Fiz uma lista de exercício com 5 questões de nível fácil criada pelo chatgpt sobre __maps__ em __Go__. São 5 funções correspondentes a esta lista, que se encontra no pacote _chatgptlistafacil1_ em /praticas/maps/chatgpt_lista_facil1
