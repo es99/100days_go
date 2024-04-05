@@ -44,3 +44,5 @@ __day 13__ - Revisto conceitos de __array__, __slices__, __loops__. Aprendendo u
 
 __day 14__ - Fiz uma lista de exercício com 5 questões de nível fácil criada pelo chatgpt sobre __maps__ em __Go__. São 5 funções correspondentes a esta lista, que se encontra no pacote _chatgptlistafacil1_ em /praticas/maps/chatgpt_lista_facil1.
 Concluído o curso Learn Go: Loops, Arrays, Maps, and Structs da plataforma [codecademy](https://www.codecademy.com/learn)
+
+__day 15__ - Fiz as primeiras 3 questões do livro _A linguagem de programação Go_ sobre laços _for_, _range_ e _join_ este último um conceito novo que aprendi , o método _join_ faz parte do pacote _strings_ e é utilizado para concatenar strings usando um separador _sep_ informado. Também comecei aprender sobre o pacote _time_ que é bem interessante para medir o tempo decorrido entre cada programa. Precisei dar um passo atrás e aprender com cuidado e lentidão _structs_ encontrei uma certa dificuldade e por isso estou fazendo esta escolha.
