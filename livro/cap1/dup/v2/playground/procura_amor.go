@@ -43,6 +43,7 @@ func main() {
 				fmt.Fprintf(os.Stderr, "procura_amor: %v\n", err)
 			}
 			countLines(f, v)
+			f.Close()
 		}
 	}
 }
