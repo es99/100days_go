@@ -50,3 +50,5 @@ __day 15__ - Fiz as primeiras 3 questões do livro _A linguagem de programação
 __day 16__ - Continuando a leitura do livro _A linguagem de programação Go_ aprendi coisas interessantes de como ler da entrada padrão e tratar as mensagens digitadas pelo usuário, por exemplo, criar um programa que mostra na tela as linhas adjacentes repetidas, incrementando o programa, aprendi que posso ter tanto da entrada padrão (os.Stdin) quanto de arquivos (os.Open(<nome-do-arquivo>)). OBS.: É preciso abrir e fechar o arquivo os.Close()
 
 __day 17__ - Ainda estou no capítulo 1, referente ao livro _A linguagem de programação Go_ fazendo os exercícios e tentando entendê-los minimamente, hoje eu modifiquei um programa que cria um gif e aprendi um pouco sobre o pacote net/http fazendo um pequeno programa que consulta URLs passadas na linha de comando e mostra seu código fonte, muito semelhante ao que o __curl__ faz.
+
+__day 18__ - Cap 1 - _A linguagem GO_ exercicio concluido a respeito de um programa que le urls da entrada padrao passadas como argumentos e retorna o tempo de pesquisa e o tempo total. Ideia sobre _goroutines_ e _channels_.
