@@ -54,3 +54,5 @@ __day 17__ - Ainda estou no capítulo 1, referente ao livro _A linguagem de prog
 __day 18__ - Cap 1 - _A linguagem GO_ exercicio concluido a respeito de um programa que le urls da entrada padrao passadas como argumentos e retorna o tempo de pesquisa e o tempo total. Ideia sobre _goroutines_ e _channels_.
 
 __day 19__ - Cap 1 - _A linguagem GO_ tendo uma ideia geral das pacotes __net/http__ para criar servidores web que tratam requisições http, eco e mostra cabeçalhos. Falta ainda fazer o exercício deste tópico (Exercício 1.12).
+
+__day 20__ - Cap 1 - _A linguagem GO_ __concluído__.

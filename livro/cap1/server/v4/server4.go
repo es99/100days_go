@@ -3,9 +3,10 @@ package main
 
 import (
 	"fmt"
+	"lissajous"
 	"log"
-	"meuprojeto/lissajous"
 	"net/http"
+	"strconv"
 	"sync"
 )
 
@@ -14,18 +15,25 @@ var count int
 
 func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		lissajous.Lissajous(w)
-	}) // cada requisicao chama handler
-	http.HandleFunc("/count", counter)
+
+		queryParams := r.URL.Query()
+		cycles := queryParams.Get("cycles")
+		if cycles == "" {
+			fmt.Fprintf(w, "Nao encontramos nenhum parameto cycles na URL")
+		}
+		num, err := strconv.Atoi(cycles)
+		if err != nil {
+			fmt.Fprintf(w, "Erro ao converter formato %q", err)
+		} else {
+			lissajous.Lissajous(w, num)
+		}
+	})
 	log.Fatal(http.ListenAndServe("localhost:8000", nil))
 }
 
 // handler ecoa o componente Path do URL requisitado
+/*
 func handler(w http.ResponseWriter, r *http.Request) {
-	mu.Lock()
-	count++
-	mu.Unlock()
-
 	fmt.Fprintf(w, "%s %s %s\n", r.Method, r.URL, r.Proto)
 	for k, v := range r.Header {
 		fmt.Fprintf(w, "Header[%q] = %q\n", k, v)
@@ -39,9 +47,4 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprintf(w, "Form[%q] = %q\n", k, v)
 	}
 }
-
-func counter(w http.ResponseWriter, r *http.Request) {
-	mu.Lock()
-	fmt.Fprintf(w, "Count %d\n", count)
-	mu.Unlock()
-}
+*/
