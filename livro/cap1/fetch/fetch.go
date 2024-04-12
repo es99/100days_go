@@ -13,7 +13,7 @@ func main() {
 	prefixo := "http://"
 	for _, url := range os.Args[1:] {
 
-		if strings.HasPrefix(url, prefixo) {
+		if !strings.HasPrefix(url, prefixo) {
 			url = prefixo + url
 		}
 
