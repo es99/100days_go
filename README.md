@@ -56,3 +56,5 @@ __day 18__ - Cap 1 - _A linguagem GO_ exercicio concluido a respeito de um progr
 __day 19__ - Cap 1 - _A linguagem GO_ tendo uma ideia geral das pacotes __net/http__ para criar servidores web que tratam requisições http, eco e mostra cabeçalhos. Falta ainda fazer o exercício deste tópico (Exercício 1.12).
 
 __day 20__ - Cap 1 - _A linguagem GO_ __concluído__.
+
+__day 21__ - Entrei no Cap 2 do livro, onde puder aprender sobre nomes reservados em GO e como declarar variaveis. Voltei para a plataforma exercism e fiz um exercicio que envolve funcoes com unico e multiplos retornos.
