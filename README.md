@@ -58,3 +58,5 @@ __day 19__ - Cap 1 - _A linguagem GO_ tendo uma ideia geral das pacotes __net/ht
 __day 20__ - Cap 1 - _A linguagem GO_ __concluído__.
 
 __day 21__ - Entrei no Cap 2 do livro, onde puder aprender sobre nomes reservados em GO e como declarar variaveis. Voltei para a plataforma exercism e fiz um exercicio que envolve funcoes com unico e multiplos retornos.
+
+__day 22__ - [Exercism](https://exercism.org/tracks/go) - Exercício sobre _maps_ concluído, 10% do curso concluído.
