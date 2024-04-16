@@ -60,3 +60,5 @@ __day 20__ - Cap 1 - _A linguagem GO_ __concluído__.
 __day 21__ - Entrei no Cap 2 do livro, onde puder aprender sobre nomes reservados em GO e como declarar variaveis. Voltei para a plataforma exercism e fiz um exercicio que envolve funcoes com unico e multiplos retornos.
 
 __day 22__ - [Exercism](https://exercism.org/tracks/go) - Exercício sobre _maps_ concluído, 10% do curso concluído.
+
+__day 23__ - Assisti a explicação, em dois vídeos, sobre ponteiros da Ellen Korbes, canal [Aprenda Go](https://youtu.be/l2YJ-5GpGr8?si=P5R5nbwjIQVvR-xi), fiz alguns exercícios para entender os conceitos de endereço de memória e valor que está dentro daquele endereço de memória.
