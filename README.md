@@ -62,3 +62,7 @@ __day 21__ - Entrei no Cap 2 do livro, onde puder aprender sobre nomes reservado
 __day 22__ - [Exercism](https://exercism.org/tracks/go) - Exercício sobre _maps_ concluído, 10% do curso concluído.
 
 __day 23__ - Assisti a explicação, em dois vídeos, sobre ponteiros da Ellen Korbes, canal [Aprenda Go](https://youtu.be/l2YJ-5GpGr8?si=P5R5nbwjIQVvR-xi), fiz alguns exercícios para entender os conceitos de endereço de memória e valor que está dentro daquele endereço de memória.
+
+__day 24__ - Superado assunto de ponteiros do livro e feito alguns testes e exercícios. Praticado e resolvido exercício de ponto-flutuante (float32, float64) na plataform Exercism.
+
+__day 25__ - Sessão 2.6 do livro, sobre _Pacotes e Arquivos_ em andamento, feito exercício 2.1
