@@ -66,3 +66,6 @@ __day 23__ - Assisti a explicação, em dois vídeos, sobre ponteiros da Ellen K
 __day 24__ - Superado assunto de ponteiros do livro e feito alguns testes e exercícios. Praticado e resolvido exercício de ponto-flutuante (float32, float64) na plataform Exercism.
 
 __day 25__ - Sessão 2.6 do livro, sobre _Pacotes e Arquivos_ em andamento, feito exercício 2.1
+
+__day 26__ - Feito script em GO, primeiro script!, em que le-se uma grande lista de mails com alguns espaços em branco entre-linhas e retorna um novo arquivo, tratado,
+sem espaços em branco entre as linhas.
