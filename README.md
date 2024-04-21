@@ -69,3 +69,5 @@ __day 25__ - Sessão 2.6 do livro, sobre _Pacotes e Arquivos_ em andamento, feit
 
 __day 26__ - Feito script em GO, primeiro script!, em que le-se uma grande lista de mails com alguns espaços em branco entre-linhas e retorna um novo arquivo, tratado,
 sem espaços em branco entre as linhas.
+
+__27__ - Feito exercicio 2.2 do capítulo 2, livro: A linguagem de programação Go
