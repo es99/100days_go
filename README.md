@@ -71,3 +71,4 @@ __day 26__ - Feito script em GO, primeiro script!, em que le-se uma grande lista
 sem espaços em branco entre as linhas.
 
 __27__ - Feito exercicio 2.2 do capítulo 2, livro: A linguagem de programação Go
+__28__ - Praticado leitura da entrada padrao (os.Stdin), maps, criando um script que simula a soma de uma lista de itens baseado numa outra lista com os precos tabelados
