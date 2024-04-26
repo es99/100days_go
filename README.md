@@ -71,4 +71,7 @@ __day 26__ - Feito script em GO, primeiro script!, em que le-se uma grande lista
 sem espaços em branco entre as linhas.
 
 __27__ - Feito exercicio 2.2 do capítulo 2, livro: A linguagem de programação Go
+
 __28__ - Praticado leitura da entrada padrao (os.Stdin), maps, criando um script que simula a soma de uma lista de itens baseado numa outra lista com os precos tabelados
+
+__29__ - Dei alguns passos pra trás pq senti que estava tendo dificuldades em Go, já estando tão habituado ao python. Neste sentido resolvi ir com mais calma no aprendizado, tentando solidificar conceitos básicos, por isso, estou assistindo os videos da Ellen Korbes. Neste dia, revisei conceitos de variáveis e tipos básicos. A diferença entre __declaração__ usando o operador _:=_ e __atribuição__, operador =.
