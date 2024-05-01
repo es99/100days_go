@@ -5,8 +5,8 @@ import (
 )
 
 func TestOla(t *testing.T) {
-	resultado := Ola()
-	esperado := "Hello, world"
+	resultado := Ola("Chris")
+	esperado := "Hello, Chris"
 
 	if resultado != esperado {
 		t.Errorf("resultado: %s, esperado: %s", resultado, esperado)

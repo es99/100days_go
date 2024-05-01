@@ -5,10 +5,10 @@ import (
 )
 
 // Ola retorna uma string
-func Ola() string {
-	return "Hello, world!"
+func Ola(nome string) string {
+	return "Hello, " + nome
 }
 
 func main() {
-	fmt.Println(Ola())
+	fmt.Println(Ola("Engels"))
 }
