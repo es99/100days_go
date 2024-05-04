@@ -80,4 +80,11 @@ __30__ - Assisti videos da Ellen Korbes sobre tipos de variáveis primitivas (in
 
 __31__ - Criando os próprios tipos de variáveis em Go. Introdução a _type conversion_, diferenças entre _Print_, _Sprint_, _Fprint_ do pacote _fmt_ e um pouco mais sobre operadores curtos, declaração, inicialização e atraibuição. 
 
-__32__ - Inicie um novo caminho de estudos, [Aprenda Go com testes](https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/ola-mundo), que me deu uma nova visão de que próximo aprender o básico de GO já utilizando testes unitários. Também li no livro sobre ordem de inicialização de programas em GO e escopo de variáveis. 
+__32__ - Iniciei um novo caminho de estudos, [Aprenda Go com testes](https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/ola-mundo), que me deu uma nova visão de que próximo aprender o básico de GO já utilizando testes unitários. Também li no livro sobre ordem de inicialização de programas em GO e escopo de variáveis. 
+
+__33__ - [Aprenda Go com testes](https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/ola-mundo), continuando o aprendizado através de testes, aprendendo a importancia do ciclo: 
+    - Escrever teste
+    - Compilar sem erros
+    - Rodar o teste, ver o teste falhar e certificar que a mensagem de erro faz sentido
+    - Escrever a quantidade mínima de código para o teste passar
+    - Refatorar

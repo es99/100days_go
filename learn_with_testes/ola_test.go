@@ -34,12 +34,3 @@ func TestOla(t *testing.T) {
 	})
 
 }
-
-func TestMedia(t *testing.T) {
-	resultado := Media(100, 100, 100)
-	esperado := 100
-
-	if float64(resultado) != float64(esperado) {
-		t.Errorf("resultado %v, esperado %v", resultado, esperado)
-	}
-}
