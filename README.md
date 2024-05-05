@@ -88,3 +88,7 @@ __33__ - [Aprenda Go com testes](https://larien.gitbook.io/aprenda-go-com-testes
     - Rodar o teste, ver o teste falhar e certificar que a mensagem de erro faz sentido
     - Escrever a quantidade mínima de código para o teste passar
     - Refatorar
+
+__34__ - Terminei o cap 2 do livro "A linguagem de programação GO", sobre declaração, atribuição, ponteiros, importações, escopo. Agora entrarei em tipos básicos
+
+__35__ - Terminei o capítulo inicial _"Hello world"_ da página _"Aprenda Go com testes"_ e entrei no capítulo de "Inteiros", nunca aprendi sobre testes em programação, e nem sabia que seria possível aprender ainda sendo novato numa linguagem, mas estou gostando dessa abordagem de aprender Go já com testes.
